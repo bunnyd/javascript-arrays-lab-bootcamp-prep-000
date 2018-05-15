@@ -12,7 +12,7 @@ function destructivelyRemoveLastKitten(){
 function destructivelyRemoveFirstKitten(){
   
 }
-function destructivelyAppendKitten(){
+function appendKitten(){
   
 }
 function destructivelyAppendKitten(){
