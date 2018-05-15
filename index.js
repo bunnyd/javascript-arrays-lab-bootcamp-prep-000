@@ -6,7 +6,7 @@ function destructivelyAppendKitten(){
 function destructivelyPrependKitten(){
   
 }
-function destructivelyAppendKitten(){
+function destructivelyRemoveLastKitten(){
   
 }
 function destructivelyAppendKitten(){
