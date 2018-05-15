@@ -1,8 +1,9 @@
 const app = "I don't do much."
-var array = []
+var array = [ 'Milo', 'Otis', 'Garfield' ]
 
 function destructivelyAppendKitten(name){
-
+  array.unshift(name)
+  return array
   
 }
 function destructivelyPrependKitten(name){
