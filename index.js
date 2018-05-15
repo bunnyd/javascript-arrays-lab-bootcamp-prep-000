@@ -1,6 +1,8 @@
 const app = "I don't do much."
+var array = []
 
 function destructivelyAppendKitten(name){
+
   
 }
 function destructivelyPrependKitten(name){
