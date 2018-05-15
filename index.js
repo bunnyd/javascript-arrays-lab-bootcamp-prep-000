@@ -1,13 +1,9 @@
 const app = "I don't do much."
+var kittens = ["Milo", "Otis", "Garfield"]
 
-function kittens(){
-  
-}
 function destructivelyAppendKitten(name){
-  Arrays.push(name)
-  return Arrays{
-    
-  }
+  kittens.push(name)
+  return kittens
   
 }
 function destructivelyPrependKitten(name){
