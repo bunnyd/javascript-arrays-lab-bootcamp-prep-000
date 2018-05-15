@@ -1,9 +1,9 @@
 const app = "I don't do much."
 
-function destructivelyAppendKitten(){
+function destructivelyAppendKitten(name){
   
 }
-function destructivelyPrependKitten(){
+function destructivelyPrependKitten(name){
   
 }
 function destructivelyRemoveLastKitten(){
@@ -16,6 +16,12 @@ function appendKitten(){
   
 }
 function prependKitten(){
+  
+}
+function removeLastKitten(){
+  
+}
+function removeFirstKitten(){
   
 }
 
